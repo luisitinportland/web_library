@@ -1,0 +1,3 @@
+<?php
+// Registro básico
+?>
